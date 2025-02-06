@@ -1,5 +1,4 @@
-
-<h1>👋 Hi, I'm @Jeanga7 👀</h1>
+<img src= "untitled.png" alt="Github Banner" width="100%"/>
 
 ## 💫 About Me:
 I'm a passionate and curious developer, interested in almost everything related to technology, innovation and creativity.
