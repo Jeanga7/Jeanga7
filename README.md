@@ -53,10 +53,12 @@ I'm a passionate and curious developer, interested in almost everything related 
 
 
 ## 🏆 GitHub Trophies
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanga7" alt="jeanga7" /></a></p>
+<div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanga7" alt="jeanga7" /></a></div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jeanga7&limit=5&theme=dark&combine_all_yearly_contributions=true)
