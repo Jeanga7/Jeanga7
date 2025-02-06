@@ -43,6 +43,12 @@ I'm a passionate and curious developer, interested in almost everything related 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanga7/jeanga7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeanga7/jeanga7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jeanga7/jeanga7/output/github-snake.svg" />
+</picture>
+
 # 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jeanga7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
