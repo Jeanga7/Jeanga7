@@ -51,7 +51,7 @@ I'm a passionate and curious developer, interested in almost everything related 
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tisfeng&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="tisfeng readme card" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeanga7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="jeanga7 readme card" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanga7&theme=dark&hide_border=false" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanga7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
