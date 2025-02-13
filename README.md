@@ -1,4 +1,4 @@
-<img src= "untitled.png" alt="Github Banner" width="100%"/>
+![Header](./github-header-image.png)
 
 ## 💫 About Me:
 I'm a passionate and curious developer, interested in almost everything related to technology, innovation and creativity.
