@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image(1).png)
 
 ## 💫 About Me:
 I'm a passionate and curious developer, interested in almost everything related to technology, innovation and creativity.
