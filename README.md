@@ -208,3 +208,10 @@ These badges represent technologies I have used across projects, learning tracks
 </table>
 
 > **Publication standard.** Private work is represented by accurate architecture, product and learning summaries—not by pretending it does not exist, nor by exposing client material, code or laboratory assets that should remain controlled.
+
+
+<p align="center">
+  <a href="https://jeanga7.github.io/signal-drift/"><img src="signal-drift-preview.svg" width="100%" alt="Signal Drift — click to play" /></a>
+</p>
+
+<p align="center"><a href="https://jeanga7.github.io/signal-drift/"><strong>▶ Play Signal Drift</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Jeanga7/signal-drift">View source</a></p>
