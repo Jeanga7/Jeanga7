@@ -1,74 +1,109 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2A,55:0B5CAD,100:13B8A6&height=240&section=header&text=Jean-Gabriel%20Goudiaby&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Software%20%C2%B7%20Systems%20%C2%B7%20Security%20%C2%B7%20Product&descAlignY=65&descSize=16" width="100%" alt="Jean-Gabriel Goudiaby — software, systems, security and product" />
+  <img src="profile-hero.svg" width="100%" alt="Jean-Gabriel Goudiaby — Software, systems, security and product" />
 </p>
 
 <h1 align="center">Jean-Gabriel Goudiaby</h1>
 
 <p align="center">
-  <strong>Software Developer & Technical Explorer</strong><br />
-  Full-stack engineering · Systems · Security · Product development
+  <strong>Software Developer · Technical Explorer · Product Builder</strong><br />
+  Full-stack engineering · Systems · Performance · Applied security
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeanga7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jeangabrielgoudiaby@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Dakar%2C%20Senegal-0B5CAD?style=for-the-badge" alt="Dakar, Senegal" />
+  <img src="https://img.shields.io/badge/Dakar%2C%20Senegal-0B5CAD?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Dakar, Senegal" />
 </p>
 
 <p align="center">
-  <a href="#english"><img src="https://img.shields.io/badge/EN-English-0B5CAD?style=flat-square" alt="English" /></a>
-  <a href="#francais"><img src="https://img.shields.io/badge/FR-Fran%C3%A7ais-13B8A6?style=flat-square" alt="Français" /></a>
-  ·
-  <a href="#selected-technical-work">Work</a> · <a href="#technical-toolkit">Toolkit</a> · <a href="#now">Now</a>
+  <a href="README.md"><img src="https://img.shields.io/badge/EN-English-0B5CAD?style=flat-square" alt="Read in English" /></a>
+  <a href="README.fr.md"><img src="https://img.shields.io/badge/FR-Fran%C3%A7ais-13B8A6?style=flat-square" alt="Lire en français" /></a>
+  &nbsp;·&nbsp;
+  <a href="#featured-builds">Featured builds</a> · <a href="#technical-toolkit">Toolkit</a> · <a href="#currently-exploring">Now</a>
 </p>
 
-<a id="english"></a>
-
-> I explore technology by building: from product interfaces and APIs to systems tooling, network diagnostics and security research. My strength is moving comfortably across unfamiliar languages, environments and problem spaces, then turning exploration into practical, documented software.
+> I build to understand. My work moves between product interfaces, APIs, systems tooling, distributed applications, networking and security research. I am at my best when a new language, environment or problem needs to become a useful, well-documented piece of software.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 — What I build</h3>
-      <ul>
-        <li><strong>Full-stack products</strong><br />Web applications, APIs, interfaces and business workflows</li>
-        <li><strong>Systems & developer tools</strong><br />Rust, Go, Linux, CLI tooling, concurrency and networking</li>
-        <li><strong>Data, performance & infrastructure</strong><br />Caching, databases, containers and service-oriented applications</li>
-        <li><strong>Mobile & cross-platform experiences</strong><br />Flutter, responsive Web and progressive web applications</li>
-      </ul>
+      <h3>01 / Build</h3>
+      <strong>Product engineering</strong><br />Web applications, APIs, service flows and cross-platform experiences.<br /><br />
+      <strong>Systems & performance</strong><br />Rust, Go, Linux, CLI tooling, caching, networking and concurrency.
     </td>
     <td width="50%" valign="top">
-      <h3>02 — Specialization & approach</h3>
-      <p><strong>Cybersecurity is a technical specialization</strong> within a broader software-engineering practice: application security, defensive tooling, network analysis and digital-forensics foundations.</p>
-      <p>I value curiosity, ownership, clear documentation, thoughtful UX and solutions that can be tested and maintained.</p>
-      <br />
-      <img src="https://img.shields.io/badge/Approach-Curious%20%7C%20Adaptable%20%7C%20Practical-12304A?style=flat-square" alt="Curious, Adaptable, Practical" />
+      <h3>02 / Explore</h3>
+      <strong>Technical range</strong><br />Backend, frontend, infrastructure, mobile and developer tooling.<br /><br />
+      <strong>Security specialization</strong><br />Applied security, defensive tooling, network analysis and forensics foundations.
+    </td>
+  </tr>
+</table>
+
+## Featured builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jeanga7/CacheCraft"><strong>CacheCraft ↗</strong></a><br />
+      <sub>GO · PERFORMANCE ENGINEERING</sub><br /><br />
+      LRU caching, Redis integration and resilient application design.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jeanga7/buy-01"><strong>buy-01 ↗</strong></a><br />
+      <sub>JAVA · DISTRIBUTED PRODUCT</sub><br /><br />
+      Full-stack commerce platform exploring backend architecture and product delivery.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jeanga7/language-installer"><strong>language-installer ↗</strong></a><br />
+      <sub>SHELL · DEVELOPER EXPERIENCE</sub><br /><br />
+      Practical language-setup automation with a clear developer-experience focus.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jeanga7/aliouniang--multiplayer-fps"><strong>Multiplayer FPS ↗</strong></a><br />
+      <sub>RUST · REAL-TIME COLLABORATION</sub><br /><br />
+      Collaborative real-time project demonstrating systems thinking and networked-programming exposure.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Rust-1F2937?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/UDP-0B5CAD?style=flat-square" alt="UDP" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jeanga7/edieng--real-time-forum"><strong>Real-time Forum ↗</strong></a><br />
+      <sub>GO · COLLABORATIVE WEB SYSTEM</sub><br /><br />
+      Collaborative web application work with real-time concerns and shared code ownership.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Web-13B8A6?style=flat-square" alt="Web" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Applied security</strong><br />
+      <sub>DEFENSIVE RESEARCH · LAB WORK</sub><br /><br />
+      Controlled research, defensive tooling, network diagnostics and image analysis. Sensitive lab material stays access-controlled.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Security-12304A?style=flat-square&logo=securityscorecard&logoColor=white" alt="Security" />
+      <img src="https://img.shields.io/badge/Responsible%20sharing-13B8A6?style=flat-square" alt="Responsible sharing" />
     </td>
   </tr>
 </table>
 
 <details>
-<summary><strong>🇫🇷 Présentation en français</strong></summary>
+<summary><strong>What is behind the public showcase?</strong></summary>
 <br />
-<a id="francais"></a>
-
-Je suis développeur logiciel full-stack et explorateur technique. Je construis des produits Web et mobiles, des API, des outils systèmes et des projets d’analyse sécurité. Ma force est de m’adapter vite à un nouveau langage, environnement ou problème, puis de transformer l’exploration en solution claire, documentée et exploitable.
-
-La cybersécurité est une spécialité technique au sein d’un profil plus large d’ingénierie logicielle : sécurité applicative, outils défensifs, réseau et bases de l’analyse forensique.
+Some work is private while it is being documented, hardened for publication or contains sensitive laboratory material. The projects above are selected to show real breadth without exposing unsafe or unfinished content.
 </details>
-
-## Selected technical work
-
-| Project | Domain | Evidence |
-| :--- | :--- | :--- |
-| **CacheCraft** | Go · performance engineering | LRU caching, Redis integration and resilient service-oriented design |
-| **Active** | Go · network diagnostics | TCP/UDP reachability checks and service identification in authorized environments |
-| **Inspector Image** | Python · image forensics | EXIF and steganography analysis via CLI, GUI and REST API |
-| **MalTrack** | Rust · Windows response | Process, persistence and network-trace investigation in an isolated VM lab |
-| **0-shell** | Rust · systems programming | Shell, filesystem commands, job control and signal handling |
-| **Web & product work** | TypeScript · Java · UX | Interfaces, APIs, migrations and multilingual product experiences |
-
-> **Responsible sharing:** public projects are reviewed for documentation and safe publication. Sensitive laboratory material remains access-controlled.
 
 ## Technical toolkit
 
@@ -86,36 +121,34 @@ La cybersécurité est une spécialité technique au sein d’un profil plus lar
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-<p><strong>Frameworks & product</strong></p>
+<p><strong>Frameworks & platform</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0B5CAD?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Progressive%20Web%20Apps-13B8A6?style=for-the-badge" alt="Progressive Web Apps" />
-</p>
-
-<p><strong>Data, platform & delivery</strong></p>
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <details>
-<summary><strong>How to read this toolkit</strong></summary>
+<summary><strong>Read the toolkit honestly</strong></summary>
 <br />
-These badges show technologies I have used across projects, learning tracks or product work. They are not a claim of equal seniority in every item; the repositories and project notes are the evidence of depth.
+These badges represent technologies I have used across projects, learning tracks and product work. They are not a claim of equal seniority in every technology; repositories and project notes are the evidence of depth.
 </details>
 
-## Now
+## Currently exploring
 
-- Curating a public portfolio of documented, safe-to-share technical work.
-- Building at the intersection of developer tooling, products and applied security.
-- Open to thoughtful collaboration, software opportunities and technically ambitious projects.
+<table>
+  <tr>
+    <td width="33%"><strong>01 / Curate</strong><br /><sub>Turning real work into clear public evidence.</sub></td>
+    <td width="33%"><strong>02 / Build</strong><br /><sub>Systems, product engineering and developer tools.</sub></td>
+    <td width="33%"><strong>03 / Learn</strong><br /><sub>Security research with safe, responsible sharing.</sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeanga7&show_icons=true&hide_border=true&title_color=0B5CAD&icon_color=0B5CAD&text_color=203040&bg_color=ffffff" alt="GitHub activity" />
