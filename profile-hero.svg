@@ -1,0 +1,41 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jean-Gabriel Goudiaby — Software Developer and Technical Explorer</title>
+  <desc id="desc">A custom technical profile banner connecting software, systems, security and product.</desc>
+  <defs>
+    <linearGradient id="surface" x1="68" y1="24" x2="1218" y2="337" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A2A"/>
+      <stop offset="0.56" stop-color="#0A3E63"/>
+      <stop offset="1" stop-color="#0B8F9A"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="217" y1="0" x2="1076" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#65E2D0" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#65E2D0" stop-opacity="0.62"/>
+      <stop offset="1" stop-color="#B9FFF5" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-60" y="-60" width="1400" height="480" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#surface)"/>
+  <path d="M0 270C180 216 281 323 452 273C603 229 701 147 858 174C1009 200 1081 276 1280 207V360H0V270Z" fill="#06131F" fill-opacity="0.34"/>
+  <path d="M0 297C180 244 281 351 452 301C603 257 701 175 858 202C1009 228 1081 304 1280 235" stroke="url(#signal)" stroke-width="2"/>
+  <g opacity="0.16" stroke="#B9FFF5" stroke-width="1">
+    <path d="M774 34H1216M774 74H1216M774 114H1216M774 154H1216M774 194H1216"/>
+    <path d="M854 0V246M934 0V246M1014 0V246M1094 0V246M1174 0V246"/>
+  </g>
+  <g stroke="#65E2D0" stroke-width="2" fill="#071A2A" filter="url(#glow)">
+    <path d="M873 80L980 126L1085 84L1171 139" stroke-opacity="0.9"/>
+    <path d="M980 126L1008 202L1121 228" stroke-opacity="0.65"/>
+    <circle cx="873" cy="80" r="8"/><circle cx="980" cy="126" r="8"/><circle cx="1085" cy="84" r="8"/>
+    <circle cx="1171" cy="139" r="8"/><circle cx="1008" cy="202" r="8"/><circle cx="1121" cy="228" r="8"/>
+  </g>
+  <g transform="translate(80 72)">
+    <rect width="94" height="94" rx="22" fill="#65E2D0"/>
+    <path d="M25 25H46V65H65" stroke="#071A2A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="68" cy="65" r="8" fill="#071A2A"/>
+  </g>
+  <text x="80" y="222" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">Jean-Gabriel Goudiaby</text>
+  <text x="82" y="264" fill="#B9FFF5" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="2.5">SOFTWARE  /  SYSTEMS  /  SECURITY  /  PRODUCT</text>
+  <text x="82" y="306" fill="#D9F7F4" fill-opacity="0.86" font-family="Arial, Helvetica, sans-serif" font-size="16">Build broadly. Learn deeply. Ship thoughtfully.</text>
+</svg>
