@@ -156,3 +156,55 @@ These badges represent technologies I have used across projects, learning tracks
 </p>
 
 <p align="center"><sub>© Jean-Gabriel Goudiaby · Dakar, Senegal</sub></p>
+
+
+## Interactive corner
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jeanga7/signal-drift"><strong>Signal Drift ↗</strong></a><br />
+      <sub>CANVAS · INTERACTION DESIGN · JAVASCRIPT</sub><br /><br />
+      A playable micro-experience built with responsive pointer input, collision logic and local high-score persistence. It is a compact public study in visual systems, motion and feedback.
+      <br /><br />
+      <a href="https://jeanga7.github.io/signal-drift/"><img src="https://img.shields.io/badge/PLAY%20LIVE-66EAD8?style=flat-square&logo=githubpages&logoColor=062033" alt="Play Signal Drift" /></a>
+      <img src="https://img.shields.io/badge/Canvas-0B2130?style=flat-square&logo=html5&logoColor=white" alt="Canvas" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>Why a micro-game?</strong><br />
+      <sub>PUBLIC BUILD · SMALL SCOPE · REAL EXECUTION</sub><br /><br />
+      It turns a profile into a place to explore—not only a list of links—while demonstrating browser APIs, responsive input handling and purposeful visual polish.
+    </td>
+  </tr>
+</table>
+
+## Work beyond the public repositories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>ScoutHub-PC</strong><br />
+      <sub>PRODUCT PLATFORM · NEXT.JS · POSTGRESQL · DDD</sub><br /><br />
+      Product work for a public storytelling and youth-programme platform, using Next.js, PostgreSQL/Drizzle and Clean Architecture patterns. Source stays private while the product is developed and reviewed.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Kalend</strong><br />
+      <sub>SCHEDULING SAAS · GO · WORKFLOW DESIGN</sub><br /><br />
+      Appointment and workflow product work focused on backend logic, service design and practical operations. Private because it is a product-in-progress, not an open-source artifact.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>0-shell</strong><br />
+      <sub>RUST · SYSTEMS EXPLORATION</sub><br /><br />
+      A systems-oriented shell project exploring command execution, process-facing concepts and robust command-line ergonomics.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Security labs</strong><br />
+      <sub>CONTROLLED RESEARCH · DEFENSIVE LEARNING</sub><br /><br />
+      Sandbox-based reverse-engineering and behavior-analysis exercises used to develop defensive detection thinking. Material that could be misused is intentionally not published.
+    </td>
+  </tr>
+</table>
+
+> **Publication standard.** Private work is represented by accurate architecture, product and learning summaries—not by pretending it does not exist, nor by exposing client material, code or laboratory assets that should remain controlled.
